@@ -1,0 +1,5 @@
+{{#user}}
+Name: Pratyush 
+Skills: HTML, CSS, JS, Reactjs, Nodejs, Mysql, Tailwind, C/C++, Pyhton, Git/Github, MongoDb, Expressjs
+Email: dpratyush412@gmail.com
+{{/user}}
